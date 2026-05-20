@@ -1,0 +1,21 @@
+{
+  "name": "geiser",
+  "version": "1.0.0",
+  "description": "Um mostruário de algumas pessoas que ficam fritando seus PCs.",
+  "main": "server/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "keywords": [
+    "express",
+    "handlebars",
+    "steam"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0"
+  }
+}
